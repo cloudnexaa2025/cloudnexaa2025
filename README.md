@@ -148,21 +148,7 @@ We help organizations leverage **Cloud Computing, AWS, DevOps, AI Automation and
 🗄️ Database Architecture
 📊 Cloud Monitoring
 💾 Backup & Disaster Recovery
-
-<!--
-**cloudnexaa2025/cloudnexaa2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->🚀 Projects & Solutions
+🚀 Projects & Solutions
 
 We build practical technology solutions focused on real-world business requirements.
 
@@ -181,8 +167,6 @@ Building responsive, scalable and production-ready web applications.
 🤖 AI Automation
 
 Creating intelligent automation solutions that help businesses reduce manual work and improve productivity.
-
-🔐 Our Approach
 Understand
     ↓
 Architect
@@ -198,7 +182,6 @@ Deploy
 Monitor
     ↓
 Improve
-
 We focus on creating solutions that are:
 
 🔒 Secure
