@@ -17,15 +17,12 @@
 <a href="mailto:info@cloudnexa.tech">
 <img src="https://img.shields.io/badge/Email-Contact%20Us-0066FF?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
 </a>
-
 &nbsp;
-
 <a href="https://github.com/CloudNexaa">
 <img src="https://img.shields.io/badge/GitHub-Organization-071B33?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
 </a>
 
 <br/><br/>
-
 <img src="https://img.shields.io/badge/AWS-Cloud%20Infrastructure-147BFF?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white"/>
 
 <img src="https://img.shields.io/badge/DevOps-CI%2FCD%20%7C%20Docker%20%7C%20Kubernetes-00D4FF?style=for-the-badge&amp;logo=docker&amp;logoColor=white"/>
@@ -189,59 +186,106 @@ Creating intelligent automation solutions that help businesses reduce manual wor
 
 ---
 
-# 🔄 Our Engineering Approach
+Replace ONLY the "Our Engineering Approach" section.
 
-<div align="center">
+Do not modify any other section of the README.
 
-```text
-        🔎 UNDERSTAND
-              ↓
-        🏗️ ARCHITECT
-              ↓
-          🔨 BUILD
-              ↓
-        ⚙️ AUTOMATE
-              ↓
-          🔐 SECURE
-              ↓
-          🚀 DEPLOY
-              ↓
-        📊 MONITOR
-              ↓
-        🔄 IMPROVE
-🎯 What We Focus On
-<div align="center">
+Create a premium, clean and professional "Our Engineering Approach" section for Cloud Nexaa Technologies.
 
-🔒 Secure
+IMPORTANT:
+The process must appear in ONE STRAIGHT HORIZONTAL LINE.
+Do not create a vertical flow.
+Do not use zig-zag layouts.
+Do not alternate left and right.
+Do not use arrows going up and down.
+Do not create a staircase layout.
 
-📈 Scalable
+Use this exact process:
 
-⚡ Reliable
+DISCOVER → DESIGN → BUILD → AUTOMATE → SECURE → DEPLOY → MONITOR → OPTIMIZE
 
-💰 Cost-Conscious
+Display all 8 stages in a clean horizontal sequence.
 
-🚀 Performance-Oriented
+Each stage should have:
+- A simple technology-related emoji or icon
+- Stage name
+- One short professional description
 
-</div>
-🎯 Our Mission
+Use:
 
-Our mission is to help businesses adopt modern technology with confidence.
+🔎 DISCOVER
+Understand business requirements and technical goals.
 
-We aim to make Cloud, AI, DevOps and Software Engineering more accessible, practical and business-focused.
+🏗️ DESIGN
+Create scalable and reliable architecture.
 
-Build smarter. Deploy faster. Scale confidently.
+💻 BUILD
+Develop modern and production-ready solutions.
 
-🤝 Collaboration
+⚙️ AUTOMATE
+Automate infrastructure, testing and deployment.
 
-We are open to collaborating on:
+🔐 SECURE
+Apply security best practices across the environment.
 
-☁️ Cloud Projects
-🚀 DevOps Projects
-🤖 AI and Automation
-💻 Open Source
-🌐 Full-Stack Applications
-🔧 Infrastructure Projects
-🧪 Technology Experiments
+🚀 DEPLOY
+Deploy applications and infrastructure reliably.
 
+📊 MONITOR
+Monitor performance, availability and infrastructure health.
 
-<
+🔄 OPTIMIZE
+Continuously improve performance, reliability and cost efficiency.
+
+VISUAL STYLE:
+
+Use Cloud Nexaa Technologies branding.
+
+Background:
+Deep Dark Navy #06111F
+
+Secondary:
+#071B33
+
+Primary:
+Electric Blue #0066FF
+
+Highlight:
+Cyan #00D4FF
+
+Text:
+White #FFFFFF
+
+Secondary text:
+#94A3B8
+
+No purple.
+
+No red.
+
+No orange.
+
+No yellow.
+
+No green.
+
+Make the section look like a premium enterprise technology workflow.
+
+Use a single horizontal timeline or a clean horizontal row of 8 cards.
+
+The visual hierarchy should be:
+
+DISCOVER → DESIGN → BUILD → AUTOMATE → SECURE → DEPLOY → MONITOR → OPTIMIZE
+
+The arrows must remain horizontally aligned.
+
+Keep the section compact, balanced and responsive for GitHub README rendering.
+
+Do not use complex CSS.
+
+Use only GitHub-compatible Markdown and simple HTML.
+
+Do not use raw "&" characters inside HTML attributes.
+If an ampersand is required inside an HTML attribute, use "&amp;".
+
+Return ONLY the replacement code for the "Our Engineering Approach" section.
